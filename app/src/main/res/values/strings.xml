@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Exercícios Fixação</string>
+
+    <!--Strings da Main Activity-->
+    <string name="titulo">Exercícios de Fixação</string>
+
+    <string name="botao_ex6">Exercício 6 - Cardápio</string>
+    <string name="botao_ex4">Exercício 4 - Horário</string>
+
+
+    <!--Strings da Horario Activity-->
+    <string name="horario_titulo">Exercício 4</string>
+
+    <string name="instrucoes">Digite abaixo um número entre 0 e 24:</string>
+    <string name="horario_saida">Horario da saída é: </string>
+
+
+    <!--Strings da Cardapio Activity-->
+    <string name="cardapio_titulo">Exercício 6</string>
+
+    <string name="cachorro_quente">Cachorro Quente</string>
+    <string name="refrigerante">Refrigerante</string>
+    <string name="sobremesa">Sobremesa</string>
+
+    <string name="c_preco">R$2,00</string>
+    <string name="r_preco">R$2,50</string>
+    <string name="s_preco">R$1,50</string>
+
+    <string name="total">Total do pedido: </string>
+
+    <string name="edit_text_hint">Digite aqui</string>
+    <string name="botao_calcular">Calcular</string>
+</resources>
